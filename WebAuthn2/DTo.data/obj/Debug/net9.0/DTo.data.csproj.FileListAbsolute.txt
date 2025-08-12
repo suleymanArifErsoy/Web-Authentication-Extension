@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\WebAuthn2\DTo.data\bin\Debug\net9.0\DTo.data.deps.json
+C:\Users\user\source\repos\WebAuthn2\DTo.data\bin\Debug\net9.0\DTo.data.dll
+C:\Users\user\source\repos\WebAuthn2\DTo.data\bin\Debug\net9.0\DTo.data.pdb
+C:\Users\user\source\repos\WebAuthn2\DTo.data\obj\Debug\net9.0\DTo.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WebAuthn2\DTo.data\obj\Debug\net9.0\DTo.data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WebAuthn2\DTo.data\obj\Debug\net9.0\DTo.data.AssemblyInfo.cs
+C:\Users\user\source\repos\WebAuthn2\DTo.data\obj\Debug\net9.0\DTo.data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WebAuthn2\DTo.data\obj\Debug\net9.0\DTo.data.dll
+C:\Users\user\source\repos\WebAuthn2\DTo.data\obj\Debug\net9.0\refint\DTo.data.dll
+C:\Users\user\source\repos\WebAuthn2\DTo.data\obj\Debug\net9.0\DTo.data.pdb
+C:\Users\user\source\repos\WebAuthn2\DTo.data\obj\Debug\net9.0\ref\DTo.data.dll

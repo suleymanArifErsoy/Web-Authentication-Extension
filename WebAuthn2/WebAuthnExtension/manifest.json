@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "WebAuthn",
+  "version": "1.0",
+  "description": "Web sayfalarında şifresiz giriş için kullanılır.",
+  "action": {
+    "default_popup": "html/popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "js": ["javascript/content.js"],
+      "css": ["css/content.css"],
+      "matches": [
+        "https://webauthn.io/",
+        "https://webauthn.me/"
+      ]
+    }
+  ],
+  "host_permissions": [
+    "http://localhost:7132/*",  
+    "https://localhost:5271/*",
+
+    "https://webauthn.io/*"
+  ]
+}

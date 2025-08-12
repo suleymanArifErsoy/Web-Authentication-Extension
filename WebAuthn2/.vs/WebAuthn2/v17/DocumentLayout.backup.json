@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WebAuthn2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2FA600-D292-4994-A9D9-B6030EC26123}|WebAuthn2\\WebAuthn2.csproj|c:\\users\\user\\source\\repos\\webauthn2\\webauthn2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2FA600-D292-4994-A9D9-B6030EC26123}|WebAuthn2\\WebAuthn2.csproj|solutionrelative:webauthn2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94C16BA-034F-41BD-B85C-A60E4925B59F}|DTo.data\\DTo.data.csproj|c:\\users\\user\\source\\repos\\webauthn2\\dto.data\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94C16BA-034F-41BD-B85C-A60E4925B59F}|DTo.data\\DTo.data.csproj|solutionrelative:dto.data\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2FA600-D292-4994-A9D9-B6030EC26123}|WebAuthn2\\WebAuthn2.csproj|c:\\users\\user\\source\\repos\\webauthn2\\webauthn2\\webauthn2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C2FA600-D292-4994-A9D9-B6030EC26123}|WebAuthn2\\WebAuthn2.csproj|solutionrelative:webauthn2\\webauthn2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2FA600-D292-4994-A9D9-B6030EC26123}|WebAuthn2\\WebAuthn2.csproj|c:\\users\\user\\source\\repos\\webauthn2\\webauthn2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C2FA600-D292-4994-A9D9-B6030EC26123}|WebAuthn2\\WebAuthn2.csproj|solutionrelative:webauthn2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2FA600-D292-4994-A9D9-B6030EC26123}|WebAuthn2\\WebAuthn2.csproj|c:\\users\\user\\source\\repos\\webauthn2\\webauthn2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2FA600-D292-4994-A9D9-B6030EC26123}|WebAuthn2\\WebAuthn2.csproj|solutionrelative:webauthn2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebAuthn2",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAuthn2\\WebAuthn2\\WebAuthn2.csproj",
+              "RelativeDocumentMoniker": "WebAuthn2\\WebAuthn2.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAuthn2\\WebAuthn2\\WebAuthn2.csproj",
+              "RelativeToolTip": "WebAuthn2\\WebAuthn2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T12:38:54.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAuthn2\\DTo.data\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTo.data\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAuthn2\\DTo.data\\RegisterDto.cs",
+              "RelativeToolTip": "DTo.data\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:16:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAuthn2\\WebAuthn2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAuthn2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAuthn2\\WebAuthn2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAuthn2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:12:37.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAuthn2\\WebAuthn2\\Program.cs",
+              "RelativeDocumentMoniker": "WebAuthn2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAuthn2\\WebAuthn2\\Program.cs",
+              "RelativeToolTip": "WebAuthn2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:10:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebAuthn2\\WebAuthn2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAuthn2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebAuthn2\\WebAuthn2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAuthn2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T13:04:47.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
