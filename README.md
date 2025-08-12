@@ -16,10 +16,6 @@ Proje, HTML, CSS ve JavaScript ile hazırlanmış olup, hem kayıt (register) he
 - API ile entegre çalışma (localhost örneği verilmiştir).
 - Base64 ↔ ArrayBuffer dönüşümleri için yardımcı fonksiyonlar.
 
-### Dosya Yapısı
-- `dc66bac1-...html` → Eklenti arayüzü HTML şablonu.
-- `308643aa-...css` → Arayüz stil dosyası.
-- `5d0ac376-...js` → WebAuthn kayıt ve giriş işlemlerini yöneten JS dosyası.
 
 ### Kurulum
 1. Projeyi bilgisayarınıza klonlayın:
